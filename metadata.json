@@ -1,0 +1,6 @@
+{
+  "name": "ThaiIRC Chat & Radio",
+  "description": "ThaiIRC Client and radio streaming player featuring pre-configured ThaiIRC server and integrated live audio streams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
